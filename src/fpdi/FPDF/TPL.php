@@ -22,7 +22,7 @@
 /**
  * Class FPDF_TPL
  */
-class FPDF_TPL extends fpdi_bridge
+class FPDF_TPL extends \FPDF
 {
     /**
      * Array of template data
